@@ -1,6 +1,6 @@
 # 🔐 Microsoft Sentinel SOC Lab (End-to-End SIEM Project)
 
-![Sentinel](images/lab-overview.png)
+(images/lab-overview.png)
 
 ---
 
